@@ -1,4 +1,4 @@
-package com.filip.jpa;
+package com.filip.blog.mvc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class JpaApplicationTests {
+public class MvcApplicationTests {
 
 	@Test
 	public void contextLoads() {
